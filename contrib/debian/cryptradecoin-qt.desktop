@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CryptradeCoin
+Comment=CryptradeCoin P2P Cryptocurrency
+Comment[fr]=CryptradeCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CryptradeCoin, eşten eşe kriptografik sanal para birimi
+Exec=cryptradecoin-qt %u
+Terminal=false
+Type=Application
+Icon=cryptradecoin128
+MimeType=x-scheme-handler/cryptradecoin;
+Categories=Office;Finance;

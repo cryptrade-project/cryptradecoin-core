@@ -1,0 +1,11 @@
+[Protocol]
+exec=cryptradecoin-qt '%u'
+protocol=cryptradecoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,26 @@
+# /etc/conf.d/cryptradecoind: config file for /etc/init.d/cryptradecoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/cryptradecoin/cryptradecoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/cryptradecoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/cryptradecoind.pid"
+
+# Where to write cryptradecoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/cryptradecoind"
+
+# User and group to own cryptradecoind process
+#BITCOIND_USER="cryptradecoin"
+#BITCOIND_GROUP="cryptradecoin"
+
+# Path to cryptradecoind executable
+#BITCOIND_BIN="/usr/bin/cryptradecoind"
+
+# Nice value to run cryptradecoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

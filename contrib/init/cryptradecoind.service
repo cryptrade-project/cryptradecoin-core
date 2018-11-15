@@ -1,0 +1,26 @@
+[Unit]
+Description=CryptradeCoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=cryptradecoin
+Group=cryptradecoin
+
+Type=forking
+PIDFile=/var/lib/cryptradecoind/cryptradecoind.pid
+
+ExecStart=/usr/bin/cryptradecoind -daemon -pid=/var/lib/cryptradecoind/cryptradecoind.pid \
+          -conf=/etc/cryptradecoin/cryptradecoin.conf -datadir=/var/lib/cryptradecoind
+
+ExecStop=-/usr/bin/cryptradecoin-cli -conf=/etc/cryptradecoin/cryptradecoin.conf \
+         -datadir=/var/lib/cryptradecoind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

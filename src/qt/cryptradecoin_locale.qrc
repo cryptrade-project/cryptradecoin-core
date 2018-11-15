@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/cryptradecoin_bg.qm</file>
+        <file alias="ca">locale/cryptradecoin_ca.qm</file>
+        <file alias="cs">locale/cryptradecoin_cs.qm</file>
+        <file alias="da">locale/cryptradecoin_da.qm</file>
+        <file alias="de">locale/cryptradecoin_de.qm</file>
+        <file alias="en">locale/cryptradecoin_en.qm</file>
+        <file alias="en_US">locale/cryptradecoin_en_US.qm</file>
+        <file alias="es">locale/cryptradecoin_es.qm</file>
+        <file alias="fi">locale/cryptradecoin_fi.qm</file>
+        <file alias="fr_FR">locale/cryptradecoin_fr_FR.qm</file>
+        <file alias="hr">locale/cryptradecoin_hr.qm</file>
+        <file alias="it">locale/cryptradecoin_it.qm</file>
+        <file alias="ja">locale/cryptradecoin_ja.qm</file>
+        <file alias="ko_KR">locale/cryptradecoin_ko_KR.qm</file>
+        <file alias="nl">locale/cryptradecoin_nl.qm</file>
+        <file alias="pl">locale/cryptradecoin_pl.qm</file>
+        <file alias="pt">locale/cryptradecoin_pt.qm</file>
+        <file alias="pt_BR">locale/cryptradecoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/cryptradecoin_ro_RO.qm</file>
+        <file alias="ru">locale/cryptradecoin_ru.qm</file>
+        <file alias="sk">locale/cryptradecoin_sk.qm</file>
+        <file alias="sv">locale/cryptradecoin_sv.qm</file>
+        <file alias="tr">locale/cryptradecoin_tr.qm</file>
+        <file alias="uk">locale/cryptradecoin_uk.qm</file>
+        <file alias="zh_CN">locale/cryptradecoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/cryptradecoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
