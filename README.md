@@ -3,7 +3,7 @@ CryptradeCoin Core integration/staging repository
 
 ![CryptradeCoin Banner](https://i.imgur.com/oM1aPBg.png)
 
-[WEBSITE](https://crytprade.io) | [BLOCK EXPLORER](https://explorer.crytprade.io) | [TWITTER](https://twitter.com/crytprade_io) | [MEDIUM](https://medium.com/@crytprade_io) | [DISCORD](https://discord.gg/yXKbrax=)
+[WEBSITE](https://cryptrade.io) | [BLOCK EXPLORER](https://explorer.cryptrade.io) | [TWITTER](https://twitter.com/cryptrade_io) | [MEDIUM](https://medium.com/@cryptrade_io) | [DISCORD](https://discord.gg/yXKbrax=)
 
 Cryptrade is a decentralized cryptocurrency trading platform built on top of bitshares 2.0 which aims to provide traders with a secure and easy way to buy and sell cryptocurrencies and tokens online instantly.
 
