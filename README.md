@@ -3,11 +3,13 @@ CryptradeCoin Core integration/staging repository
 
 ![CryptradeCoin Banner](https://i.imgur.com/oM1aPBg.png)
 
+[WEBSITE](https://crytprade.io) | [BLOCK EXPLORER](https://explorer.crytprade.io) | [TWITTER](https://twitter.com/crytprade_io) | [MEDIUM](https://medium.com/@crytprade_io) | [DISCORD](https://discord.gg/yXKbrax=)
+
 Cryptrade is a decentralized cryptocurrency trading platform built on top of bitshares 2.0 which aims to provide traders with a secure and easy way to buy and sell cryptocurrencies and tokens online instantly.
 
 CryptradeCoin(CRCO) is a private and anonymous cryptocurrency which is officially issued by Cryptrade. CRCO uses hybrid PoS+Masternode consensus to secure its blockchain and provides coin holders with full-time private and instant transactions by implementing swiftx and zerocoin protocol. Paying for the listing fees and trading fees in Cryptrade is the main use-case of CRCO coin.
 
-### Coin Specs
+## Coin Specs
 <table>
 <tr><td>Symbol</td><td>CRCO</td></tr>
 <tr><td>Algo</td><td>XEVAN</td></tr>
@@ -24,7 +26,9 @@ CryptradeCoin(CRCO) is a private and anonymous cryptocurrency which is officiall
 <tr><td>Min Stake Age</td><td>1 Hour</td></tr>
 </table>
 
-### Block Rewards
+***
+
+## Block Rewards
 <table>
 <tr><th>Block Height</th><th>Block Reward</th><th>MN Reward</th><th>PoS Reward</th></tr>
 <tr><td>1-4320</td><td>0.1 CRCO</td><td>90%</td><td>10%</td></tr>
@@ -46,7 +50,9 @@ CryptradeCoin(CRCO) is a private and anonymous cryptocurrency which is officiall
 <tr><td colspan=4>...</td></tr>
 </table>
 
-### MN Collateral
+***
+
+## MN Collateral
 <table>
 <tr><th>Block Height</th><th>MN Collateral</th></tr>
 <tr><td>1-450,000</td><td>1,000 CRCO</td></tr>
@@ -56,3 +62,5 @@ CryptradeCoin(CRCO) is a private and anonymous cryptocurrency which is officiall
 <tr><td>270,001-540,000</td><td>8,000 CRCO</td></tr>
 <tr><td>>=540,001</td><td>10,000 CRCO</td></tr>
 </table>
+
+***
